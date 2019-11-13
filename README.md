@@ -3,7 +3,7 @@ Advanced Java Topics assignment where I use Java tests to conduct experiments.
 WORD OF CAUTION: ALL EXAMPLE CASES WILL USE THE DEFAULT CONSTRUCTOR.
 
 Method #1 - toString ()
-  You need to inscribe all of your information in a nice, yet easy to read fashion. The data here   should be organized by line and data type.
+  You need to inscribe all of your information in a nice, yet easy to read fashion. The data here should be organized by line and data type.
   
   Expected output: "false 
                     
