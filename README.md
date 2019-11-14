@@ -1,41 +1,41 @@
-# intellij_unit_tests
+# intellij_unit_tests.java
 Advanced Java Topics assignment where I use Java tests to conduct experiments.
 WORD OF CAUTION: ALL EXAMPLE CASES WILL USE THE DEFAULT CONSTRUCTOR.
 
 Method #1 - toString ()
-  You need to inscribe all of your information in a nice, yet easy to read fashion. The data here should be organized by line and data type.
+  You need a record of all the data you had included into your new science experiment by printing it out.
   
   Expected output: "false 
                     
                     0 1 2"
   
 Method #2 - simpleIf ()
-  You want to filter out your experimental class by the total length of the strings used in the input, with the balance of using the test boolean datum.
+  You want to filter out your instances that don't have more than four characters when combining both strings, but to use in a further algorithm.
   
   Expected output: false 
 
 Method #3 - ifAndElif ()
-  You want to test out how your test boolean works alongside the boolean operators.
+  The day can be skipped if either the length of your name is greater than six characters or your amount of sales count up t 20 or more.
   
   Expect output: false
 
 Method #4 - ifAndElse ()
-  After realizing you want to test your non-boolean data as well, you decide to sum up your numbers, and determine what string comes out instead.
+  The base amount of apples you need to sell is 10 in order to get a message that leads you to swip your work.
   
   Expected output: ""
 
 Method #5 - whileLoop ()
-  When you realize that you can concentate the same string as many times as the while loop can allow you.
+  Your name is needed three for the old computer to recognize your first name.
   
   Expected output: ""
 
 Method #6 - forLoop ()
-  You remember that multiplication is repeated addition, and decide to design an algorithm to accomplish this via for loop.
+  In second grade, you learned that multipication is simply repeated addition and must recreate how repeated addition could be achieved.
   
   Expected output: 10
 
 Method #7 - oneDArray ()
-  You need to complete a more specialized toString method, but with arrays as the storage mechanism.
+  You want to space out the potential titles for your new movie, but want to show them spaced out and protected via array.
   
   Expected ouput: " "
 
@@ -46,6 +46,6 @@ Method #8 - twoDArray ()
                     0 3 6"
 
 Method #9 - inArrayList (int input)
-  You have created a brute-force method of searching. It only needs two strings to function, but input.
+  Out of the two titles for your next blockbuster, you want to search for the one you have chosen in the bucket of titles.
   
   Expect output: true
