@@ -1,5 +1,7 @@
 # intellij_unit_tests.java
 Advanced Java Topics assignment where I use Java tests to conduct experiments.
+
+Unit Tests (November 22, 2019)
 WORD OF CAUTION: ALL EXAMPLE CASES WILL USE THE DEFAULT CONSTRUCTOR.
 
 Method #1 - toString ()
@@ -49,3 +51,9 @@ Method #9 - inArrayList (int input)
   Out of the two titles for your next blockbuster, you want to search for the one you have chosen in the bucket of titles.
   
   Expect output: true
+  
+Partners:  N/A
+
+Other:
+  - These tests are actually fun to do!
+  - Reminded me of the deep dives back in 8th grade.
